@@ -1,6 +1,6 @@
 # Kia Ora Cafe Website
 
-![Kia Ora Cafe](images/kia-ora-cafe-icons/dark/logotype.png)
+![Kia Ora Cafe](images/kia-ora-cafe-icons/light/logotype.png)
 
 A comprehensive, fully responsive website for Kia Ora Cafe - a fictional coffee shop chain that brings the authentic taste and culture of New Zealand to the Philippines. This project represents a complete web development solution showcasing modern frontend techniques, responsive design principles, and interactive user experiences.
 

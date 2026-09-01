@@ -105,7 +105,7 @@ User authentication interface (frontend presentation)
 
 -   **[Consent Form for Jasmine](files/ProjectConsentForm.pdf)** - Project inspiration and concept approval
 -   **[Development Log](files/WorkDiary.xlsx)** - Activity log spreadsheet of the entire development phase
--   **[Fit Criteria Checklist](files/Requirements%20Checklist.docx)** - Project criteria for the course
+-   **[Fit Criteria Checklist](files/Requirement-Checklist.docx)** - Project criteria for the course
 -   **[Development Documentation](files/DevelopmentDocumentation.pdf)** - Technical specifications and development process
 -   **[Guide Documentation](files/UserGuide.pdf)** - User and maintenance guides
 
